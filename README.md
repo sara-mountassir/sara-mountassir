@@ -1,5 +1,12 @@
 # Hi 👋, I'm **Sara Mountassir**  
+---
+
+![Sara Mountassir Banner](https://i.imgur.com/MRM5DQD.png)
+
+---
 ![Waving Girl](https://i.makeagif.com/media/10-09-2013/n1Em8d.gif)
+
+
 
 ### A passionate third-year engineering student specializing in computer networks and information systems at the Moroccan School of Engineering Sciences.  
 
