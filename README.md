@@ -77,7 +77,7 @@
 - I’m a huge **anime** fan! You can often find me watching or discussing the latest shows. 🎥🍿
 
 <h2>Otaku Empire Introduction</h2>
-<p>Watch the video on Vimeo: <a href="https://vimeo.com/1033712102/53d432fa10?share=copy" target="_blank">Otaku Empire Introduction</a></p>
+<p>Watch the video on Vimeo: <a href="https://vimeo.com/1033963287/49b9652877?share=copy" target="_blank">Otaku Empire Introduction</a></p>
 
 
 
