@@ -54,13 +54,13 @@
 ---
 
 ## 🏆 Certifications 🎓
-- **University at Buffalo, The State University of New York:** Introduction to the Nonprofit Sector, Nonprofit Organizations, Nonprofit Leadership and Governance (Issued June 2024)  
+- **University at Buffalo, The State University of New York:** Introduction to the Nonprofit Sector, Nonprofit Organizations, Nonprofit Leadership and Governance (Issued 2024)  
   <img src="https://logosdownload.com/logo/university-at-buffalo-logo-big.png" width="30"/>  
-- **University of Colorado Boulder:** Successful Presentation with honors (Issued June 2024)  
+- **University of Colorado Boulder:** Successful Presentation with honors (Issued 2024)  
   <img src="https://th.bing.com/th/id/OIP.sQ2gn6KGZgK9rCaVyOgvigHaHJ?rs=1&pid=ImgDetMain" width="20"/>  
-- **Amazon Web Services:** Cloud Foundations (Issued June 2024)  
+- **Amazon Web Services:** Cloud Foundations (Issued 2024)  
   <img src="https://img.icons8.com/ios/452/amazon.png" width="20"/>  
-- **University of Michigan:** Emotional Intelligence and Human Interaction (Issued June 2024)  
+- **University of Michigan:** Emotional Intelligence and Human Interaction (Issued 2024)  
   <img src="https://th.bing.com/th/id/R.6d9d754739d6d7e6b88a6f9288f7ed46?rik=MRxmUnX827p1kA&riu=http%3a%2f%2fwww.ranklogos.com%2fwp-content%2fuploads%2f2012%2f06%2funiversity-of-michigan.jpg&ehk=6me4trkCn5rHMNpMa1CpoFm8Gfs6G%2bAGnTH2a4HX0bE%3d&risl=&pid=ImgRaw&r=0" width="20"/>  
 ---
 
