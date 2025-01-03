@@ -64,6 +64,8 @@
   <img src="https://th.bing.com/th/id/R.6d9d754739d6d7e6b88a6f9288f7ed46?rik=MRxmUnX827p1kA&riu=http%3a%2f%2fwww.ranklogos.com%2fwp-content%2fuploads%2f2012%2f06%2funiversity-of-michigan.jpg&ehk=6me4trkCn5rHMNpMa1CpoFm8Gfs6G%2bAGnTH2a4HX0bE%3d&risl=&pid=ImgRaw&r=0" width="20"/>
 - **University of Michigan:** Successful Negotiation: Essential Strategies and Skills (Issued 2024)  
   <img src="https://th.bing.com/th/id/R.6d9d754739d6d7e6b88a6f9288f7ed46?rik=MRxmUnX827p1kA&riu=http%3a%2f%2fwww.ranklogos.com%2fwp-content%2fuploads%2f2012%2f06%2funiversity-of-michigan.jpg&ehk=6me4trkCn5rHMNpMa1CpoFm8Gfs6G%2bAGnTH2a4HX0bE%3d&risl=&pid=ImgRaw&r=0" width="20"/>
+  - **University of Michigan:** Interactivity with JavaScript (Issued 2025)  
+  <img src="https://th.bing.com/th/id/R.6d9d754739d6d7e6b88a6f9288f7ed46?rik=MRxmUnX827p1kA&riu=http%3a%2f%2fwww.ranklogos.com%2fwp-content%2fuploads%2f2012%2f06%2funiversity-of-michigan.jpg&ehk=6me4trkCn5rHMNpMa1CpoFm8Gfs6G%2bAGnTH2a4HX0bE%3d&risl=&pid=ImgRaw&r=0" width="20"/>
   
 ---
 
