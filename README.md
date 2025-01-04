@@ -68,7 +68,7 @@
 - **University of Michigan:** Interactivity with JavaScript (Issued 2025)  
   <img src="https://th.bing.com/th/id/R.6d9d754739d6d7e6b88a6f9288f7ed46?rik=MRxmUnX827p1kA&riu=http%3a%2f%2fwww.ranklogos.com%2fwp-content%2fuploads%2f2012%2f06%2funiversity-of-michigan.jpg&ehk=6me4trkCn5rHMNpMa1CpoFm8Gfs6G%2bAGnTH2a4HX0bE%3d&risl=&pid=ImgRaw&r=0" width="20"/>
 - **École Polytechnique Fédérale de Lausanne (EPFL):** Advanced C++ Programming Concepts (Issued 2025)
-<img src="https://www.epfl.ch/about/overview/wp-content/uploads/2020/07/logo-epfl.png" width="20"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.epfl.ch%2Fabout%2Foverview%2Ffr%2Fidentite%2F&psig=AOvVaw3hFOf-KKRXhv2CZGcfg83U&ust=1736113687517000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC-yM6F3YoDFQAAAAAdAAAAABAE" width="20"/>
   
 ---
 
