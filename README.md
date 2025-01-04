@@ -54,7 +54,6 @@
 ---
 
 ## 🏆 Certifications 🎓
-
 - **University at Buffalo, The State University of New York:** Introduction to the Nonprofit Sector, Nonprofit Organizations, Nonprofit Leadership and Governance (Issued 2024)  
   <img src="https://logosdownload.com/logo/university-at-buffalo-logo-big.png" width="30"/>  
 - **University of Colorado Boulder:** Successful Presentation with honors (Issued 2024)  
@@ -68,7 +67,7 @@
 - **University of Michigan:** Interactivity with JavaScript (Issued 2025)  
   <img src="https://th.bing.com/th/id/R.6d9d754739d6d7e6b88a6f9288f7ed46?rik=MRxmUnX827p1kA&riu=http%3a%2f%2fwww.ranklogos.com%2fwp-content%2fuploads%2f2012%2f06%2funiversity-of-michigan.jpg&ehk=6me4trkCn5rHMNpMa1CpoFm8Gfs6G%2bAGnTH2a4HX0bE%3d&risl=&pid=ImgRaw&r=0" width="20"/>
 - **École Polytechnique Fédérale de Lausanne (EPFL):** Advanced C++ Programming Concepts (Issued 2025)
-   <img src="https://camo.githubusercontent.com/605479799e6b94462adf746d79cd64c9fe1e58b924b4074f982c961803012f7b/68747470733a2f2f7777772e6570666c2e63682f61626f75742f6f766572766965772f77702d636f6e74656e742f75706c6f6164732f323032302f30372f6c6f676f2d6570666c2e706e67" width="40"/>
+  <img src="https://camo.githubusercontent.com/605479799e6b94462adf746d79cd64c9fe1e58b924b4074f982c961803012f7b/68747470733a2f2f7777772e6570666c2e63682f61626f75742f6f766572766965772f77702d636f6e74656e742f75706c6f6164732f323032302f30372f6c6f676f2d6570666c2e706e67" width="40"/>
   
 ---
 
