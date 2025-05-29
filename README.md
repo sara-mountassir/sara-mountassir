@@ -28,6 +28,15 @@
 
 ---
 
+---
+
+## 🌟 Featured Project
+
+### 🎯 [CareerJob](https://sarakojima.pythonanywhere.com)
+
+A powerful Django web application designed to manage job offers and applications seamlessly. Built with Django, it allows recruiters to post jobs and candidates to apply, track statuses, and manage their profiles.
+
+---
 
 
 ## 💡 Skills and Expertise
