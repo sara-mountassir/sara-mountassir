@@ -3,7 +3,7 @@
 **Fifth-year engineering student — Digital Development & Information Systems**
 EMSI (Moroccan School of Engineering Sciences), Casablanca
 
-![Banner](https://i.imgur.com/MRM5DQD.png)
+![Banner](github_banner.png)
 
 <p align="left">
   <a href="mailto:mountassirsara99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mountassirsara99%40gmail.com-blue?logo=gmail&logoColor=white"></a>
