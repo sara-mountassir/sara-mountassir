@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="github_banner.png" width="100%" alt="Sara Mountassir" />
+<img src="banner.svg" width="100%" alt="Sara Mountassir" />
 
 <br/><br/>
 
