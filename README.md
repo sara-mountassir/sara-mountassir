@@ -1,12 +1,10 @@
-<div align="center">
-
 <img src="banner.svg" width="100%" alt="Sara Mountassir" />
 
-<br/><br/>
+<div align="center">
 
 <!-- Hero: animated typing header -->
 <a href="https://github.com/sara-mountassir">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=FF6FA5&center=true&vCenter=true&width=720&height=90&lines=Fifth-Year+Engineering+Student+%40+EMSI+Casablanca;Digital+Development+%26+Information+Systems;Spring+Boot+%E2%80%A2+Django+%E2%80%A2+SQL" alt="Sara Mountassir" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FF6FA5&center=true&vCenter=true&width=1000&height=90&lines=Fifth-Year+Engineering+Student+%40+EMSI+Casablanca;Digital+Development+%26+Information+Systems;Spring+Boot+%E2%80%A2+Django+%E2%80%A2+SQL" alt="Sara Mountassir" />
 </a>
 
 <br/>
@@ -19,14 +17,14 @@
 
 <!-- Profile card -->
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  > STUDENT     : SARA MOUNTASSIR // EMSI CASABLANCA                 │
-│  > PROGRAMME   : DIGITAL DEVELOPMENT & INFORMATION SYSTEMS (2022–)  │
-│  > FOCUS       : WEB BACKEND • DATABASES • MICROSERVICES            │
-│  > INTERNSHIPS : AI PERFORMANCE (WEB) • TECTRA (SYSTEMS & NETWORK)  │
-│  > CURRENTLY   : BIKE-FLOW — SPRING BOOT MICROSERVICES (JAVA 17)    │
-│  > PHILOSOPHY  : "BUILD IT, TEST IT, DOCUMENT IT."                  │
-└─────────────────────────────────────────────────────────────────────┘
++-----------------------------------------------------------------------------+
+|  STUDENT      : SARA MOUNTASSIR // EMSI CASABLANCA                          |
+|  PROGRAMME    : DIGITAL DEVELOPMENT & INFORMATION SYSTEMS (2022 - PRESENT)  |
+|  FOCUS        : WEB BACKEND / DATABASES / MICROSERVICES                     |
+|  INTERNSHIPS  : AI PERFORMANCE (WEB) / TECTRA (SYSTEMS & NETWORK)           |
+|  CURRENTLY    : BIKE-FLOW - SPRING BOOT MICROSERVICES (JAVA 17)             |
+|  PHILOSOPHY   : "BUILD IT, TEST IT, DOCUMENT IT."                           |
++-----------------------------------------------------------------------------+
 ```
 
 </div>
